@@ -18,5 +18,11 @@ jupyter notebook
 >New
 >Python3(ipykernel)
 
+```
+import pandas as pd
+```
+```
+acidentesDF = pd.read_csv('AUTOPISTA_FERNO_DIAS.csv')
+```
 
 # Dataset: Acidentes automotivos na Rodovia Fernão Dias.
