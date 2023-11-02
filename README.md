@@ -30,23 +30,75 @@ acidentesDF = pd.read_csv('AUTOPISTA_FERNO_DIAS.csv')
 
 # data
 # horario
+00:00 a 00:59 -> 0
+01:00 a 01:59 -> 1
+02:00 a 02:59 -> 2
+03:00 a 03:59 -> 3 
+04:00 a 04:59 -> 4
+05:00 a 05:59 -> 5
+06:00 a 06:59 -> 6
+07:00 a 07:59 -> 7
+08:00 a 08:59 -> 8
+09:00 a 09:59 -> 9
+10:00 a 10:59 -> 10
+11:00 a 11:59 -> 11
+12:00 a 12:59 -> 12
+13:00 a 13:59 -> 13
+14:00 a 14:59 -> 14
+15:00 a 15:59 -> 15
+16:00 a 16:59 -> 16
+17:00 a 17:59 -> 17
+18:00 a 18:59 -> 18
+19:00 a 19:59 -> 19
+20:00 a 20:59 -> 20
+21:00 a 21:59 -> 21
+22:00 a 22:59 -> 22
+23:00 a 23:59 -> 23
+
 # tipo_de_ocorrencia
+sem vitima = 0
+com vitima = 1
+
 # km
+Mantém
+
 # trecho
+Qualquer que tenha MG = 0
+Qualquer que tenha SP = 1
+
 # sentido
+Norte = 0
+Sul = 1
+
 # tipo_de_acidente
+Mantém
 # automovel
+Mantém
 # bicicleta
+Mantém
 # caminhao
+Mantém
 # moto
+Mantém
 # onibus
+Mantém
 # outros
+Mantém
 # tracao_animal
+Mantém
 # transporte_de_cargas_especiais
+Mantém
 # trator_maquinas
+Mantém
 # utilitarios
+Mantém
 # ilesos
+Mantém
 # levemente_feridos
+Mantém
 # moderadamente_feridos
+Mantém
 # gravemente_feridos
+Mantém
 # mortos
+Mantém
