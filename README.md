@@ -26,3 +26,27 @@ acidentesDF = pd.read_csv('AUTOPISTA_FERNO_DIAS.csv')
 ```
 
 # Dataset: Acidentes automotivos na Rodovia Fernão Dias.
+
+
+# data
+# horario
+# tipo_de_ocorrencia
+# km
+# trecho
+# sentido
+# tipo_de_acidente
+# automovel
+# bicicleta
+# caminhao
+# moto
+# onibus
+# outros
+# tracao_animal
+# transporte_de_cargas_especiais
+# trator_maquinas
+# utilitarios
+# ilesos
+# levemente_feridos
+# moderadamente_feridos
+# gravemente_feridos
+# mortos
