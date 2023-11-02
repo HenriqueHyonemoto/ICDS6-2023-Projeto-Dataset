@@ -60,7 +60,18 @@ sem vitima = 0 <br>
 com vitima = 1 <br>
 
 # km
-Mantém
+0 a 50 = 50 <br>
+51 a 100 = 100 <br>
+101 a 150 = 150 <br>
+151 a 200 =  200 <br>
+201 a 250 = 250 <br>
+251 a 300 =  300 <br>
+301 a 350 = 350 <br>
+351 a 400 = 400 <br>
+401 a 450 = 450 <br>
+451 a 500 = 500 <br>
+501 a 550 = 550 <br> 
+550 a 600 = 600 <br>
 
 # trecho
 Qualquer que tenha MG = 0 <br>
