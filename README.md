@@ -80,7 +80,41 @@ Norte = 0 <br>
 Sul = 1 <br>
 
 # tipo_de_acidente
-Mantém
+Saida de Pista = 0
+Outros - Sequencia = 1
+Choque - Defensa barreira ou ""submarino"" = 2
+Choque - Elemento de Drenagem = 3
+Colisao Traseira = 4
+Atropelamento de Animal = 5
+Engavetamento = 6
+Capotamento = 7
+Queda de Moto = 8
+Colisao Lateral = 9
+Choque - Suporte de Sinalizacao = 10
+Outros = 11
+Tombamento = 12
+Colisao Frontal = 13
+Atropelamento - Morador = 14
+Choque - Talude = 15
+Choque - Objeto sobre a pista = 16
+Atropelamento - Andarilho = 17
+Atropelamento - Ciclista = 18
+Choque - Poste = 19
+Atropelamento - Usuario = 20
+Choque - Veiculo parado no acostamento = 21
+Choque - Cancela de Pedagio = 22
+Choque - Arvore = 23
+Choque - Veiculo parado na pista = 24
+Atropelamento - Ambulante = 25
+Acidentes de outra natureza = 26
+Atropelamento - Funcionario = 27
+Atropelamento de pedestre = 28
+Atropelamento - Sem Informacao = 29
+Objeto lancado contra veiculo = 30
+Colisao Transversal = 31
+Soterramento = 32
+
+
 # automovel
 Mantém
 # bicicleta
