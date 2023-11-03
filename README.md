@@ -113,6 +113,10 @@ Atropelamento - Sem Informacao = 29
 Objeto lancado contra veiculo = 30
 Colisao Transversal = 31
 Soterramento = 32
+Choque - outros = 33
+Atropelamento - Outros = 34
+Choque - Objeto nao identificado = 35
+Choque = 36
 
 
 # automovel
