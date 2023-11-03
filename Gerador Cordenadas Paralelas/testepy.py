@@ -8,7 +8,7 @@ cores = ["#ff0000", "#ffa500", "#ffff00", "#008000", "#0000ff", "#4b0082", "#800
 
 fig = go.Figure(data=
     go.Parcoords(
-        line=dict(
+        line=dict( color = df['data'],
         colorscale = 'Electric',          
         showscale = True,),
         dimensions = list([
