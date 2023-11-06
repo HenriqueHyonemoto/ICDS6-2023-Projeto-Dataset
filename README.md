@@ -21,6 +21,12 @@ pip install pandas
 pip install cufflinks
 ```
 
+# Execução
+
+```
+python PC.py
+```
+
 
 # Cordenadas Paralelas
 
