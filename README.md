@@ -29,10 +29,14 @@ python PC.py
 
 # Graficos a serem feitos
 
+(Fazer)
+Gráfico de Segmento ou gráfico de linhas -> Y = Numero de acidentes, X = Horario (00:00 - 00:59 a 23:00 - 23:59) <br>
+Gráfico de Segmento ou gráfico de linhas -> Y = Numero de acidentes, X = Data (2010 a 2023) <br>
+(Decidindo)<br>
 Donut -> Quantidade de( Ilesos, Levemente moderado e gravemente feridos, mortos ) um para o sentido Sul e outro para o Norte <br>
 Donut -> Quantidade de( Ilesos, Levemente moderado e gravemente feridos, mortos ) um para MG e outro para SP <br>
 
-Gráfico de Segmento ou gráfico de linhas -> Y = Numero de acidentes, X = Horario (00:00 - 00:59 a 23:00 - 23:59) <br>
+
 
 
 # Cordenadas Paralelas
