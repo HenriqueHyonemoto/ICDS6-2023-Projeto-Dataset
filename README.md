@@ -27,6 +27,12 @@ pip install cufflinks
 python PC.py
 ```
 
+# Graficos a serem feitos
+
+Donut -> Quantidade de( Ilesos, Levemente moderado e gravemente feridos, mortos ) um para o sentido Sul e outro para o Norte
+
+Gráfico de Segmento ou gráfico de linhas -> Y = Numero de acidentes, X = Horario (00:00 - 00:59 a 23:00 - 23:59)
+
 
 # Cordenadas Paralelas
 
