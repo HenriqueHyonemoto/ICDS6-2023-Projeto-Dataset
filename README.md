@@ -67,9 +67,9 @@ acidentesDF = pd.read_csv('AUTOPISTA_FERNO_DIAS.csv')
 
 # Dataset: Acidentes automotivos na Rodovia Fernão Dias.
 
-
-# data
-# horario
+# data (CP e ER)
+Deixar somente o ano
+# horario (CP e ER)
 00:00 a 00:59 -> 0 <br>
 01:00 a 01:59 -> 1 <br>
 02:00 a 02:59 -> 2 <br>
@@ -95,11 +95,11 @@ acidentesDF = pd.read_csv('AUTOPISTA_FERNO_DIAS.csv')
 22:00 a 22:59 -> 22 <br>
 23:00 a 23:59 -> 23 <br>
 
-# tipo_de_ocorrencia
+# tipo_de_ocorrencia (CP e ER)
 sem vitima = 0 <br>
 com vitima = 1 <br>
 
-# km
+# km (CP e ER)
 0 a 100 = 100 <br>
 101 a 200 = 200 <br>
 201 a 300 = 300 <br>
@@ -111,15 +111,15 @@ com vitima = 1 <br>
 801 a 900 = 900 <br>
 901 a 1000 = 1000 <br>
 
-# trecho
+# trecho (CP e ER)
 Qualquer que tenha MG = 0 <br>
 Qualquer que tenha SP = 1 <br>
 
-# sentido
+# sentido (CP e ER)
 Norte = 0 <br>
 Sul = 1 <br>
 
-# tipo_de_acidente
+# tipo_de_acidente (Somente CP)
 Saida de Pista = 0 <br>
 Outros - Sequencia = 1 <br>
 Choque - Defensa barreira ou ""submarino"" = 2 <br>
@@ -159,7 +159,7 @@ Choque - Objeto nao identificado = 35 <br>
 Choque = 36 <br>
 
 
-# automovel
+# automovel 
 Mantém
 # bicicleta
 Mantém
