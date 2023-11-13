@@ -71,6 +71,12 @@ acidentesDF = pd.read_csv('AUTOPISTA_FERNO_DIAS.csv')
 
 # Dataset: Acidentes automotivos na Rodovia Fernão Dias.
 
+![image](https://github.com/HenriqueHyonemoto/ICDS6-2023-Projeto-Dataset/assets/91375748/a79895a2-086d-4ead-9f62-b9f8790b0685)
+
+![image](https://github.com/HenriqueHyonemoto/ICDS6-2023-Projeto-Dataset/assets/91375748/ccc21089-f406-4104-903f-e3af9c9dd665)
+
+
+
 # data (CP e ER)
 Deixar somente o ano
 # horario (CP e ER)
